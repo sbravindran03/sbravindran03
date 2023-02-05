@@ -4,8 +4,8 @@
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik242002&label=Profile%20views&color=0e75b6&style=flat" alt="vmmuthu31" /> </p>
-<a href="#karthik242002-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik242002&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="karthik242002 S" align="right" />
+<a href="S.B.RAVINDRAN-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=sbravindran&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="karthik242002 S" align="right" />
 </a>
 
 - 👋 Hi, I’m @sbravindran03
