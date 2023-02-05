@@ -8,12 +8,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=karthik242002&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="karthik242002 S" align="right" />
 </a>
 
-- 👋 Hi, I’m @karthik242002
+- 👋 Hi, I’m @sbravindran03
 - 👀 I’m interested to recreate the coding
 - 🌱 I’m currently learning B.E(CSE) in Jaya Engineering College
 - 💞️ I’m looking to collaborate with new things 
-- 📫 Reach me on karthiksiva153@gmail.com
-- 💻  Connect with me on https://www.linkedin.com/in/karthik-s-9a6121237/
+- 📫 Reach me on ravindran5211@gmail.com
+- 💻  Connect with me on https://www.linkedin.com/in/ravindran-s-b-51b54a243/
 
 <br>
 
@@ -23,7 +23,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#karthik242002">
+      <a href="#sbravindran03">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
