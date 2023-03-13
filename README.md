@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm RAVINDRAN SB</h1>
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik242002&label=Profile%20views&color=0e75b6&style=flat" alt="vmmuthu31" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik242002&label=Profile%20views&color=0e75b6&style=flat" alt="sbravindran03" /> </p>
 <a href="S.B.RAVINDRAN-title">
   <img src="https://github-readme-stats.vercel.app/api?username=sbravindran&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="karthik242002 S" align="right" />
 </a>
@@ -71,7 +71,7 @@
       <br>Node JS
     </td>
      <td align="center" width="96"> 
-      <a href="#vmmuthu31" >
+      <a href="#sbravindran03" >
         <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="48" height="48" alt="Mongo DB" />
       </a>
       <br>MongoDB
