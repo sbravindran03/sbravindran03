@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm RAVINDRAN SB</h1>
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sbravindran032&label=Profile%20views&color=0e75b6&style=flat" alt="sbravindran03" /> </p>
-<a href="S.B.RAVINDRAN-title">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sbravindran032&label=Profile%20views&color=0e75b6&style=flat" alt="#sbravindran03" /> </p>
+<a href="#sbravindran03-title">
   <img src="https://github-readme-stats.vercel.app/api?username=sbravindran03&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="karthik242002 S" align="right" />
 </a>
 
@@ -17,7 +17,7 @@
 
 <br>
 
-<h2 align="left" id=""sbravindran03>Favorite Tech</h2>
+<h2 align="left" id=""#sbravindran03>Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
 
 <table align="center">
@@ -86,7 +86,7 @@
       <br>C Lang
     </td>
     <td align="center" width="96">
-      <a href="#vmmuthu31" >
+      <a href="#sbravindran03" >
         <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
