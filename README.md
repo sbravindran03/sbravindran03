@@ -106,7 +106,7 @@
       <br>Electron
     </td>
     <td align="center" width="96">
-      <a href="#thirumurugan7">
+      <a href="#sbravindran03">
         <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
@@ -118,19 +118,19 @@
       <br>WordPress
     </td>
     <td align="center" width="96">
-      <a href="#thirumurugan7" >
+      <a href="#sbravindran03" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
     </td>
     <td align="center" width="96">
-      <a href="#thirumurugan7" >
+      <a href="#sbravindran03" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#thirumurugan7" >
+      <a href="#sbravindran03" >
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
@@ -138,55 +138,55 @@
   </tr>
    <tr>
     <td align="center" width="96">
-      <a href="#thirumurugan7">
+      <a href="#sbravindran03">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
       </a>
       <br>TailWind
     </td>
     <td align="center" width="96">
-      <a href="#thirumurugan7">
+      <a href="#sbravindran03">
         <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="#thirumurugan7">
+      <a href="#sbravindran03">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
       <br>Figma
     </td>
     <td align="center" width="96">
-      <a href="#thirumurugan7">
+      <a href="#sbravindran03">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
       </a>
       <br>Tensorflow
     </td>
     <td align="center" width="96">
-      <a href="#thirumurugan7">
+      <a href="#sbravindran03">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
       <br>Material ui
     </td>
     <td align="center" width="96">
-      <a href="#thirumurugan7">
+      <a href="#sbravindran03">
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="48" height="48" alt="Solidity" />
       </a>
       <br>Solidity
     </td>
      <td align="center" width="96"> 
-      <a href="#thirumurugan7" >
+      <a href="#sbravindran03" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td>
           <td align="center" width="96"> 
-      <a href="#thirumurugan7" >
+      <a href="#sbravindran03" >
         <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
              <td align="center" width="96"> 
-      <a href="#thirumurugan7" >
+      <a href="#sbravindran03" >
         <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
       </a>
       <br>G Cloud
@@ -199,7 +199,7 @@
 <table align="center">
   <tr>
     <td align="center" width="1000">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thirumurugan7&show_icons=true&locale=en&layout=compact" alt="thirumurugan7" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbravindran03&show_icons=true&locale=en&layout=compact" alt="sbravindran03" /></p>
 </td>
 <tr>
     <td align="center" width="1000">
