@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thirumurugan7&label=Profile%20views&color=0e75b6&style=flat" alt="vmmuthu31" /> </p>
 <a href="#vmmuthu31-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=thirumurugan7&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="thirumurugan7" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thirumurugan7&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="sbravindran03" align="right" />
 </a>
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"25
