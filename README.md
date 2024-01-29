@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ravindran</h1>
 <h3 align="center">Passionate for innovation, A boy trying to be Plus Ultra!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sbravindran03&label=Profile%20views&color=0e75b6&style=flat" alt="vmmuthu31" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sbravindran03&label=Profile%20views&color=0e75b6&style=flat" alt="sbravindran03" /> </p>
 <a href="#vmmuthu31-title">
   <img src="https://github-readme-stats.vercel.app/api?username=sbravindran03&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="sbravindran03" align="right" />
 </a>
