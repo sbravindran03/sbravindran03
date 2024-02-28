@@ -193,16 +193,7 @@
 </table>
 
 
-<table align="center">
-  <tr>
-    <td align="center" width="1000">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbravindran03&show_icons=true&locale=en&layout=compact" alt="sbravindran03" /></p>
-</td>
-<tr>
-    <td align="center" width="1000">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sbravindran03&show_icons=true&locale=en" alt="sbravindran03" /></p>
-</td>
-<tr>
+
     <td align="center" width="1000">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbravindran03&" alt="sbravindran03" /></p>
 </td>
