@@ -192,9 +192,8 @@
     
 </table>
 
-
-
-    <td align="center" width="1000">
+<table align="center">
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbravindran03&" alt="sbravindran03" /></p>
 </td>
 <tr>
