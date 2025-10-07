@@ -1,67 +1,81 @@
-<h1 align="center">💻 Ravindran SB</h1>
-<h3 align="center">Full Stack Developer | Web3 & AI Enthusiast | Always Going Plus Ultra ⚡</h3>
+<!-- ✨ Anime Themed GitHub Profile for Ravindran SB ✨ -->
+
+<h1 align="center">💥 PLUS ULTRA! I'm Ravindran SB 💥</h1>
+<h3 align="center">🔥 Full Stack & Web3 Developer | 🧠 AI Explorer | 🦸‍♂️ A boy chasing innovation!</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/2RoSg-BDkPcAAAAC/plus-ultra-my-hero-academia.gif" width="400"/>
+  <img src="https://media.tenor.com/2RoSg-BDkPcAAAAC/plus-ultra-my-hero-academia.gif" width="400" />
 </p>
 
 ---
 
-### 🧠 Who Am I?
+### 🧩 About Me
 
-🧑‍💻 **Name:** Ravindran S B  
-🎓 **Education:** B.E. CSE, Jaya Engineering College (Class of 2024)  
-💬 **Interests:** JavaScript, React, Web3, and AI-driven apps  
-🚀 **Focus:** Building modern, decentralized, and intelligent solutions  
-💡 **Philosophy:** _“Stay curious. Keep coding. Go Beyond — PLUS ULTRA!”_
+🎓 **B.E CSE Graduate (Class of 2024)** from *Jaya Engineering College*  
+💡 Passionate about **Web3, React, and AI** — merging creativity with technology  
+🎮 Love building projects that feel like **missions** not **tasks**  
+💬 Motto: _"Go Beyond! PLUS ULTRA!"_  
+📫 Reach me at: **[ravindran5211@gmail.com](mailto:ravindran5211@gmail.com)**  
 
 ---
 
-### ⚙️ Skills & Tech Stack
+### ⚔️ My Anime Arc (Developer Journey)
+
+| Arc | Description | Power Level |
+|------|--------------|-------------|
+| 🌱 **Origin Arc** | Started learning HTML, CSS, JavaScript | 🔰 Rookie Dev |
+| ⚙️ **Training Arc** | Built Web Apps & APIs using React + Node.js | 💪 Skilled Coder |
+| 🧠 **Web3 Awakening Arc** | Created Secure Seats & DigiLockers | 🚀 Blockchain Builder |
+| 🔮 **AI Integration Arc** | Experimenting with AI-powered Dashboards | 💡 Innovator |
+| 💥 **Hero Era (Now)** | Building powerful tools and exploring full-stack magic | ⚡ Plus Ultra Dev |
+
+---
+
+### ⚙️ Arsenal (Tech Stack)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,solidity,py,django,mongodb,git,tailwind,bootstrap,typescript,figma,graphql,linux" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,solidity,py,django,mongodb,git,tailwind,bootstrap,typescript,graphql,figma,linux,azure,gcp,firebase" />
 </p>
 
 ---
 
-### 🧩 Projects
+### 🧠 My Projects Universe
 
-| Project | Description | Tech Used |
-|----------|--------------|-----------|
-| 🔐 **Secure Seats** | Web3 Ticketing Platform for event security | Next.js, Solidity, Web3 |
-| 🪪 **DigiLockers** | Blockchain-based Document Storage System | React, Solidity, IPFS |
-| ⚙️ **API Workflow Builder** | Swagger + Node.js integration for visual API building | React, Node.js, Swagger |
-| 📊 **GitHub Analytics Dashboard** | Visualize commits, PRs, issues with AI summaries | React, Chart.js, Express |
-
----
-
-### 🏆 Achievements
-
-- 🥇 Participated in **ETH Amritha (Chennai)**, **HackBangalore**, **Unfold 23**, **ETH Mumbai**
-- 🧠 Founded **Gryfindors** – college tech club promoting hackathons
-- 💼 Completed **Web Development Internship at CodSoft**
-- 🚀 Built **multiple Web3 + AI-powered projects**
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🎟️ **Secure Seats** | Web3 Ticketing Platform | Next.js, Solidity, Web3 |
+| 🔐 **DigiLockers** | Decentralized Document Storage | React, Solidity, IPFS |
+| ⚙️ **API Workflow Builder** | Swagger + Node Visual API Tool | React, Express, YAML |
+| 📈 **GitHub Analytics Dashboard** | Repo Insights + AI Summary | React, Chart.js |
 
 ---
 
-### 📊 GitHub Analytics
+### 🌍 Power Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sbravindran03&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sbravindran03&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sbravindran03&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sbravindran03&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbravindran03&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbravindran03&theme=tokyo-night" />
 </p>
 
 ---
 
-### 🏅 Trophies & Contributions
+### 🏆 Hero Achievements
+
+- 🏅 Participated in **ETH Amritha**, **HackBangalore**, **Unfold23**, **ETH Mumbai**
+- ⚡ Created **Gryfindors** — a college tech club for hackathon heroes  
+- 💼 Interned at **CodSoft** (Web Development Projects)
+- 🌐 Contributed to open-source Web3 projects
+
+---
+
+### 💫 My Power Meter
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sbravindran03&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sbravindran03&theme=dracula&row=1&column=6" />
 </p>
 
 <p align="center">
@@ -70,7 +84,20 @@
 
 ---
 
-### 🛰️ Connect With Me
+### 🦸 Anime Energy Quotes
+
+> _“A hero's job is to risk his life to make his dream a reality.”_  
+> — **Izuku Midoriya**
+
+> _“Power is not will. It is the phenomenon of physically making things happen.”_  
+> — **Madara Uchiha**
+
+> _“If you don’t take risks, you can’t create a future.”_  
+> — **Monkey D. Luffy**
+
+---
+
+### 🌟 Connect With Me
 
 <p align="center">
   <a href="mailto:ravindran5211@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -82,5 +109,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+and+AI+Innovator;Building+Cool+Things+Everyday!;Always+Going+Plus+Ultra!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+and+AI+Innovator;Anime+Lover+%7C+Plus+Ultra+Mindset;Building+Cool+Things+Everyday!" />
 </p>
