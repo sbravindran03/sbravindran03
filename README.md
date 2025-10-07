@@ -4,6 +4,10 @@
 <h3 align="center">Full Stack Developer | Web3 Enthusiast | AI Explorer</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Typing cat gif"/>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/ravindran-s-b-51b54a243"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ravindran5211@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/RAVINDRANSB4"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
