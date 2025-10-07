@@ -1,1 +1,87 @@
-<!-- Stylish GitHub Profile README for Ravindran SB --> <h1 align="center">👋 Hey there, I'm <span style="color:#4C8BF5">Ravindran SB</span></h1> <h3 align="center">💡 Passionate Innovator | 🌐 Web & Web3 Developer | ⚡ Always Going Plus Ultra!</h3> <p align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="90"/> </p> --- ### 🧑‍💻 About Me - 🎓 I'm pursuing **B.E. Computer Science and Engineering at JEC (Class of 2024)** - 💬 Ask me about **JavaScript**, **React**, **Web 3.0**, and **Solidity** - 💼 I build **Full-stack dApps**, **Modern Web Apps**, and **AI-powered dashboards** - 📫 Reach me at **[ravindran5211@gmail.com](mailto:ravindran5211@gmail.com)** - 🪩 Let’s connect on **[LinkedIn](https://www.linkedin.com/in/ravindran-s-b-51b54a243/)** - 🐦 Follow my journey on **[Twitter](https://twitter.com/RAVINDRANSB4)** --- ### 🧠 My Favorite Tech Stack > Tools, frameworks, and languages I love working with 🔥 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,solidity,mongodb,git,github,tailwind,bootstrap,materialui,html,css,redux,graphql,linux,azure,gcp,firebase,figma,bash,php,c" /> </p> --- ### 🚀 Projects & Highlights - 🔐 **Secure Seats** – A Web3 Event Ticketing platform using **Next.js + Solidity** - 🧠 **AI Workflow Builder** – Visual API + Swagger integration dashboard - 🪪 **DigiLockers (Web3)** – Secure decentralized document storage - 💼 **Portfolio Dashboard** – React-based dynamic profile manager --- ### 📊 GitHub Analytics <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sbravindran03&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sbravindran03&theme=tokyonight&hide_border=false" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbravindran03&theme=tokyo-night" /> </p> --- ### 🧩 Fun Zone <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sbravindran03&theme=tokyonight&row=1&column=6" /> </p> <p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p> --- ### 💬 Quote that Drives Me > _"The future belongs to those who believe in the beauty of their dreams."_ > — **Eleanor Roosevelt** --- ### 🌟 Let's Connect <p align="center"> <a href="https://linkedin.com/in/ravindran-s-b-51b54a243" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/RAVINDRANSB4" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="mailto:ravindran5211@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/sbravindran03"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a> </p> --- <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+and+AI+Innovator;JavaScript+%7C+React+%7C+Python+%7C+Next.js;Building+Cool+Things+Everyday!"/> </p>
+<!-- Stylish GitHub Profile README for Ravindran SB -->
+
+<h1 align="center">👋 Hey there, I'm <span style="color:#4C8BF5">Ravindran SB</span></h1>
+<h3 align="center">💡 Passionate Innovator | 🌐 Web & Web3 Developer | ⚡ Always Going Plus Ultra!</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="90"/>
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 I'm pursuing **B.E. Computer Science and Engineering at JEC (Class of 2024)**
+- 💬 Ask me about **JavaScript**, **React**, **Web 3.0**, and **Solidity**
+- 💼 I build **Full-stack dApps**, **Modern Web Apps**, and **AI-powered dashboards**
+- 📫 Reach me at **[ravindran5211@gmail.com](mailto:ravindran5211@gmail.com)**
+- 🪩 Let’s connect on **[LinkedIn](https://www.linkedin.com/in/ravindran-s-b-51b54a243/)**  
+- 🐦 Follow my journey on **[Twitter](https://twitter.com/RAVINDRANSB4)**  
+
+---
+
+### 🧠 My Favorite Tech Stack
+
+> Tools, frameworks, and languages I love working with 🔥
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,solidity,mongodb,git,github,tailwind,bootstrap,materialui,html,css,redux,graphql,linux,azure,gcp,firebase,figma,bash,php,c" />
+</p>
+
+---
+
+### 🚀 Projects & Highlights
+
+- 🔐 **Secure Seats** – A Web3 Event Ticketing platform using **Next.js + Solidity**
+- 🧠 **AI Workflow Builder** – Visual API + Swagger integration dashboard  
+- 🪪 **DigiLockers (Web3)** – Secure decentralized document storage  
+- 💼 **Portfolio Dashboard** – React-based dynamic profile manager  
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sbravindran03&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sbravindran03&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbravindran03&theme=tokyo-night" />
+</p>
+
+---
+
+### 🧩 Fun Zone
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sbravindran03&theme=tokyonight&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 💬 Quote that Drives Me
+
+> _"The future belongs to those who believe in the beauty of their dreams."_  
+> — **Eleanor Roosevelt**
+
+---
+
+### 🌟 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/ravindran-s-b-51b54a243" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/RAVINDRANSB4" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:ravindran5211@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/sbravindran03"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+and+AI+Innovator;JavaScript+%7C+React+%7C+Python+%7C+Next.js;Building+Cool+Things+Everyday!"/>
+</p>
