@@ -1,50 +1,42 @@
-<h1 align="center">💥 PLUS ULTRA! I'm Ravindran SB 💥</h1>
-<h3 align="center">⚡ Web3 Innovator | 🧠 Full-Stack Developer | 🌍 Coding My Hero Story</h3>
+<h1 align="center">🤖 Ravindran SB</h1>
+<h3 align="center">AI x Web3 Engineer • Full Stack Developer • Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/2RoSg-BDkPcAAAAC/plus-ultra-my-hero-academia.gif" width="400"/>
+  <img src="https://i.gifer.com/7VE.gif" width="400"/>
 </p>
 
 ---
 
-### 🎯 Mission Log
-- 🧩 Building apps that make life **smarter & decentralized**
-- 🔥 Turning caffeine into **React components** and **Solidity contracts**
-- 🧠 Exploring **AI + Blockchain synergy**
-- 🎮 Dream project: an **Anime-style AI-powered RPG**
-- 💬 Motto: _“Go Beyond! Plus Ultra!”_
+### 🧩 Data Stream: About Me
+- 🧠 Passionate about **AI-driven Web3 ecosystems**
+- 💡 Building **Secure Seats**, **DigiLocker Web3**, and more
+- 💬 Loves talking about **JavaScript**, **React**, and **Blockchain**
+- 📫 **Contact:** [ravindran5211@gmail.com](mailto:ravindran5211@gmail.com)
 
 ---
 
-### ⚙️ Arsenal
+### 🛰️ Tech Stack Matrix
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,solidity,py,mongodb,tailwind,git,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,solidity,py,nodejs,express,mongodb,graphql,ts,tailwind,figma,git,azure,gcp" />
 </p>
 
 ---
 
-### 🪄 Power Stats
+### 🧠 Neural Analytics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sbravindran03&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sbravindran03&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sbravindran03&show_icons=true&theme=neon" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sbravindran03&theme=neon" />
 </p>
 
 ---
 
-### ⚔️ Achievement Board
+### 💽 Repository Telemetry
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sbravindran03&theme=onedark&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbravindran03&theme=react-dark" />
 </p>
 
 ---
 
-### 🌀 Animated Hero Path
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-### 💬 Final Words
-> _“A hero's job is to risk his life to make his dream a reality.”_  
-> — **Izuku Midoriya**
+### ⚡ AI Quote of the Day
+> _"Your code is the bridge between imagination and reality."_  
+> — Neural Mentor
